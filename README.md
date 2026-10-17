@@ -97,7 +97,27 @@
 ### 🏆 Achievements & Milestones
 
 <div align="center">
-  <img src="assets/achievements.svg" alt="Achievements and Milestones" width="100%" />
+  <a href="https://www.linkedin.com/posts/chennai-institute-of-technology_takshashila2026-aptathon2026-cit-ugcPost-7433433486000312320-3XG7?utm_source=share&utm_medium=member_android&rcm=ACoAAF6RAG4Bgyvsw4MaaeS8pZ_93zfiXjvxxg8" target="_blank">
+    <img src="assets/achievement_1.svg" width="48.5%" alt="Winner - CIT Aptathon 2026" />
+  </a>
+  <a href="https://lnkd.in/p/gwxfPm48" target="_blank">
+    <img src="assets/achievement_2.svg" width="48.5%" alt="Global Top 106 - Google Solution Challenge 2026" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://ap.wps.com/cms/docs/d/cbCaeqfxyCRrPM0t?platform=pc&refer=copylink" target="_blank">
+    <img src="assets/achievement_3.svg" width="48.5%" alt="Runner-Up - SheBuilds x CCCL Hackathon" />
+  </a>
+  <a href="https://lnkd.in/p/gyHnmJwT" target="_blank">
+    <img src="assets/achievement_4.svg" width="48.5%" alt="Top 14 Finalist - Hack Nocturne 2.0" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://ap.wps.com/cms/docs/d/cbCaeqfxyCRrPM0t?platform=pc&refer=copylink" target="_blank">
+    <img src="assets/achievement_5.svg" width="98%" alt="Track Top 2 Finalist - India Computer Vision Hackathon" />
+  </a>
 </div>
 
 ---

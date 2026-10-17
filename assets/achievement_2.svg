@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 125" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#090d16" stop-opacity="0.98"/>
+    </linearGradient>
+    <linearGradient id="border-glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B82F6">
+        <animate attributeName="stop-color" values="#3B82F6;#06B6D4;#3B82F6" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#06B6D4">
+        <animate attributeName="stop-color" values="#06B6D4;#3B82F6;#06B6D4" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="pill" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#1D4ED8" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+  <style>
+    @keyframes pulse { 0%, 100% { stroke-opacity: 0.7; } 50% { stroke-opacity: 1; } }
+    .card { animation: pulse 3s infinite ease-in-out; cursor: pointer; }
+  </style>
+  <g class="card">
+    <rect x="2" y="2" width="406" height="121" rx="14" fill="url(#bg)" stroke="url(#border-glow)" stroke-width="1.8"/>
+    <rect x="16" y="16" width="40" height="40" rx="10" fill="#1e293b" stroke="#3B82F6" stroke-opacity="0.5" stroke-width="1"/>
+    <!-- Globe Path -->
+    <circle cx="36" cy="36" r="9" fill="none" stroke="#38BDF8" stroke-width="1.8"/>
+    <ellipse cx="36" cy="36" rx="4.5" ry="9" fill="none" stroke="#38BDF8" stroke-width="1.5"/>
+    <path d="M27 36 h18" stroke="#38BDF8" stroke-width="1.5"/>
+    <!-- Pill -->
+    <rect x="270" y="16" width="124" height="24" rx="12" fill="url(#pill)" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="1"/>
+    <text x="332" y="32.5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="700" font-size="10.5" letter-spacing="0.6" fill="#38BDF8" text-anchor="middle">GLOBAL TOP 106</text>
+    <!-- Content -->
+    <text x="68" y="32" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="700" font-size="15" fill="#FFFFFF">Global Top 106 Teams</text>
+    <text x="68" y="49" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="600" font-size="13" fill="#E2E8F0">Google Solution Challenge 2026</text>
+    <text x="18" y="82" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#94A3B8">Selected among top 106 teams globally from</text>
+    <text x="18" y="100" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#94A3B8">85,000+ registered global participants.</text>
+    <!-- External link arrow hint -->
+    <path d="M382 100 l5 -5 m0 0 h-4 m4 0 v4" stroke="#64748B" stroke-width="1.2" stroke-linecap="round"/>
+  </g>
+</svg>
