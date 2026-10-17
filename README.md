@@ -1,8 +1,10 @@
 <div align="center">
 
-# Akshaya S
+# ⚡ Akshaya S
 
-**Software Developer | Backend Engineering | DSA | Exploring Cybersecurity**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+Engineer+%E2%80%A2+Backend+Engineering;Java+%E2%80%A2+Python+%E2%80%A2+MySQL+%E2%80%A2+REST+APIs;Defensive+AI+%E2%80%A2+Cybersecurity+Firewalls;200%2B+LeetCode+Problems+Optimized+%26+Solved)](https://github.com/Akshaya-csbs)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaya--saravanan)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/akshh08/)
@@ -15,12 +17,20 @@
 
 ### 👨‍💻 About Me
 
-I am an undergraduate student pursuing **B.Tech in Computer Science and Business Systems (CSBS)** at Chennai Institute of Technology (CIT) with a CGPA of 9.24. My core technical interests center around **backend engineering**, **systems design**, **data structures & algorithms**, and **cybersecurity**.
+<p align="center">
+  <samp>
+    🎓 <b>B.Tech in CSBS @ Chennai Institute of Technology</b> &nbsp;|&nbsp; <b>CGPA: 9.24</b><br/>
+    Building high-concurrency backend services, defensive AI firewalls, and optimized algorithms.
+  </samp>
+</p>
 
-- ⚙️ **Backend Engineering**: Developing robust, multithreaded RESTful APIs and server architectures using Java, Node.js, Python, and Flask with relational and NoSQL databases.
-- 🛡️ **AI & Security**: Designing defensive AI workflows, including dynamic intent escalation firewalls, adversarial prompt filtering, and zero-knowledge healthcare vaults.
-- 🧠 **Problem Solving**: Active competitive programmer on LeetCode and SkillRack, emphasizing efficient algorithms, array manipulation, and number theory.
-- 🤝 **Leadership & Community**: Event Lead at Club Celestius and PR/Outreach Lead at Women in Engineering (WIE) Student Chapter.
+<div align="center">
+
+| ⚙️ `Backend Engineering` | 🛡️ `AI & Security` | 🧠 `Problem Solving` | 🌟 `Leadership` |
+| :--- | :--- | :--- | :--- |
+| Multithreaded REST APIs in Java, Python & Node.js | Intent escalation firewalls & Zero-Knowledge data privacy | 200+ LeetCode & SkillRack solutions | Event Lead @ Celestius • PR Lead @ IEEE WIE |
+
+</div>
 
 ---
 
