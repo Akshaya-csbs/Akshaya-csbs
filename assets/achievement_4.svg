@@ -1,36 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 125" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 135" width="100%" height="100%">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0f172a" stop-opacity="0.95"/>
-      <stop offset="100%" stop-color="#090d16" stop-opacity="0.98"/>
+    <linearGradient id="bg_achievement_4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0e1420" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#080c14" stop-opacity="0.98"/>
     </linearGradient>
-    <linearGradient id="border-glow" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#6366F1"/>
-      <stop offset="100%" stop-color="#38BDF8"/>
-    </linearGradient>
-    <linearGradient id="pill" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#4F46E5" stop-opacity="0.3"/>
-      <stop offset="100%" stop-color="#3730A3" stop-opacity="0.15"/>
+    <linearGradient id="border_achievement_4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#818CF8" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#4F46E5" stop-opacity="0.3"/>
     </linearGradient>
   </defs>
-  <style>
-    .card { cursor: pointer; }
-  </style>
-  <g class="card">
-    <rect x="2" y="2" width="406" height="121" rx="14" fill="url(#bg)" stroke="url(#border-glow)" stroke-width="1.4"/>
-    <rect x="16" y="16" width="40" height="40" rx="10" fill="#1e293b" stroke="#6366F1" stroke-opacity="0.3" stroke-width="1"/>
-    <!-- Target Path -->
-    <circle cx="36" cy="36" r="9" fill="none" stroke="#818CF8" stroke-width="1.8"/>
-    <circle cx="36" cy="36" r="4.5" fill="none" stroke="#818CF8" stroke-width="1.5"/>
-    <circle cx="36" cy="36" r="1.5" fill="#818CF8"/>
-    <!-- Pill -->
-    <rect x="270" y="16" width="124" height="24" rx="12" fill="url(#pill)" stroke="#818CF8" stroke-opacity="0.4" stroke-width="1"/>
-    <text x="332" y="32.5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="700" font-size="10.5" letter-spacing="0.6" fill="#A5B4FC" text-anchor="middle">TOP 14 FINALIST</text>
-    <!-- Content -->
-    <text x="68" y="32" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="700" font-size="15" fill="#FFFFFF">Top 14 Finalist</text>
-    <text x="68" y="49" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="600" font-size="13" fill="#E2E8F0">Hack Nocturne 2.0</text>
-    <text x="18" y="82" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#94A3B8">Ranked 14th at the hackathon hosted by</text>
-    <text x="18" y="100" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#94A3B8">Sir M. Visvesvaraya Institute of Technology.</text>
-    <path d="M382 100 l5 -5 m0 0 h-4 m4 0 v4" stroke="#64748B" stroke-width="1.2" stroke-linecap="round"/>
+
+  <!-- Card Container with reduced border thickness (size 1) and curved corners -->
+  <rect x="0.5" y="0.5" width="189" height="134" rx="10" ry="10" 
+        fill="url(#bg_achievement_4)" stroke="url(#border_achievement_4)" stroke-width="1"/>
+
+  <!-- Icon Container -->
+  <rect x="14" y="14" width="32" height="32" rx="7" fill="#151d2a" stroke="#818CF8" stroke-opacity="0.3" stroke-width="1"/>
+  <g transform="translate(16, 16)">
+    <g stroke="#818CF8" stroke-width="1.5" fill="none" stroke-linecap="round">
+          <circle cx="14" cy="14" r="8"/>
+          <circle cx="14" cy="14" r="4"/>
+          <circle cx="14" cy="14" r="1.2" fill="#818CF8"/>
+        </g>
+  </g>
+
+  <!-- Rank Badge -->
+  <rect x="120" y="18" width="56" height="20" rx="10" fill="#1e1b4b" stroke="#818CF8" stroke-opacity="0.45" stroke-width="1"/>
+  <text x="148.0" y="31.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="9" letter-spacing="0.5" fill="#C7D2FE" text-anchor="middle">TOP 14</text>
+
+  <!-- Title -->
+  <text x="14" y="75" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="14.5" fill="#FFFFFF">Top 14 Finalist</text>
+
+  <!-- Event -->
+  <text x="14" y="97" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="500" font-size="12" fill="#94A3B8">Hack Nocturne 2.0</text>
+
+  <!-- External Link Hint -->
+  <g transform="translate(168, 113)">
+    <path d="M0 6 L6 0 M6 0 H2 M6 0 V4" stroke="#64748B" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
   </g>
 </svg>

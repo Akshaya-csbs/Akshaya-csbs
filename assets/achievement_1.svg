@@ -1,40 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 125" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 135" width="100%" height="100%">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0f172a" stop-opacity="0.95"/>
-      <stop offset="100%" stop-color="#090d16" stop-opacity="0.98"/>
+    <linearGradient id="bg_achievement_1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0e1420" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#080c14" stop-opacity="0.98"/>
     </linearGradient>
-    <linearGradient id="border-glow" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#F59E0B">
-        <animate attributeName="stop-color" values="#F59E0B;#8B5CF6;#F59E0B" dur="4s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#6366F1">
-        <animate attributeName="stop-color" values="#6366F1;#EC4899;#6366F1" dur="4s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-    <linearGradient id="pill" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#D97706" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#B45309" stop-opacity="0.15"/>
+    <linearGradient id="border_achievement_1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#D97706" stop-opacity="0.3"/>
     </linearGradient>
   </defs>
-  <style>
-    @keyframes pulse { 0%, 100% { stroke-opacity: 0.7; } 50% { stroke-opacity: 1; } }
-    .card { animation: pulse 3s infinite ease-in-out; cursor: pointer; }
-  </style>
-  <g class="card">
-    <rect x="2" y="2" width="406" height="121" rx="14" fill="url(#bg)" stroke="url(#border-glow)" stroke-width="1.8"/>
-    <rect x="16" y="16" width="40" height="40" rx="10" fill="#1e293b" stroke="#F59E0B" stroke-opacity="0.5" stroke-width="1"/>
-    <!-- Trophy Path -->
-    <path d="M28 26 h16 v6 c0 4.4 -3.6 8 -8 8 s-8 -3.6 -8 -8 Z M28 29 h-3 c-1.7 0 -3 1.3 -3 3 v1 c0 2.8 2.2 5 5 5 h1 M44 29 h3 c1.7 0 3 1.3 3 3 v1 c0 2.8 -2.2 5 -5 5 h-1 M36 40 v4 M31 44 h10" fill="none" stroke="#F59E0B" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
-    <!-- Pill -->
-    <rect x="296" y="16" width="98" height="24" rx="12" fill="url(#pill)" stroke="#F59E0B" stroke-opacity="0.5" stroke-width="1"/>
-    <text x="345" y="32.5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="700" font-size="10.5" letter-spacing="0.6" fill="#FBBF24" text-anchor="middle">1ST PLACE</text>
-    <!-- Content -->
-    <text x="68" y="32" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="700" font-size="15" fill="#FFFFFF">Winner</text>
-    <text x="68" y="49" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="600" font-size="13" fill="#E2E8F0">CIT Aptathon 2026</text>
-    <text x="18" y="82" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#94A3B8">1st place after clearing four competitive</text>
-    <text x="18" y="100" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#94A3B8">aptitude problem-solving rounds.</text>
-    <!-- External link arrow hint -->
-    <path d="M382 100 l5 -5 m0 0 h-4 m4 0 v4" stroke="#64748B" stroke-width="1.2" stroke-linecap="round"/>
+
+  <!-- Card Container with reduced border thickness (size 1) and curved corners -->
+  <rect x="0.5" y="0.5" width="189" height="134" rx="10" ry="10" 
+        fill="url(#bg_achievement_1)" stroke="url(#border_achievement_1)" stroke-width="1"/>
+
+  <!-- Icon Container -->
+  <rect x="14" y="14" width="32" height="32" rx="7" fill="#151d2a" stroke="#F59E0B" stroke-opacity="0.3" stroke-width="1"/>
+  <g transform="translate(16, 16)">
+    <g stroke="#F59E0B" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M7 6 h14 v5 c0 3.8 -3.1 7 -7 7 s-7 -3.2 -7 -7 Z"/>
+          <path d="M7 9 h-3 c-1.5 0 -2.5 1 -2.5 2.5 v0.5 c0 2.2 1.8 4 4 4 h1.5"/>
+          <path d="M21 9 h3 c1.5 0 2.5 1 2.5 2.5 v0.5 c0 2.2 -1.8 4 -4 4 h-1.5"/>
+          <path d="M14 18 v3 M10 21 h8"/>
+        </g>
+  </g>
+
+  <!-- Rank Badge -->
+  <rect x="110" y="18" width="66" height="20" rx="10" fill="#451a03" stroke="#F59E0B" stroke-opacity="0.45" stroke-width="1"/>
+  <text x="143.0" y="31.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="9" letter-spacing="0.5" fill="#FBBF24" text-anchor="middle">1ST PLACE</text>
+
+  <!-- Title -->
+  <text x="14" y="75" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="14.5" fill="#FFFFFF">Winner</text>
+
+  <!-- Event -->
+  <text x="14" y="97" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="500" font-size="12" fill="#94A3B8">CIT Aptathon 2026</text>
+
+  <!-- External Link Hint -->
+  <g transform="translate(168, 113)">
+    <path d="M0 6 L6 0 M6 0 H2 M6 0 V4" stroke="#64748B" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
   </g>
 </svg>
