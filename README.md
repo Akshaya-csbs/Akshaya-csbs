@@ -2,7 +2,6 @@
 
   <img src="assets/header_banner.png" alt="Akshaya S" width="100%" />
   <br/><br/>
-
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+Engineer+%E2%80%A2+Backend+Engineering;Java+%E2%80%A2+Python+%E2%80%A2+MySQL+%E2%80%A2+REST+APIs;Defensive+AI+%E2%80%A2+Cybersecurity+Firewalls;200%2B+LeetCode+Problems+Optimized+%26+Solved)](https://github.com/Akshaya-csbs)
 
   <br/><br/>
