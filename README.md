@@ -1,15 +1,32 @@
 <div align="center">
 
-# ⚡ Akshaya S
+  <img src="assets/header_banner.png" alt="Akshaya S" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+Engineer+%E2%80%A2+Backend+Engineering;Java+%E2%80%A2+Python+%E2%80%A2+MySQL+%E2%80%A2+REST+APIs;Defensive+AI+%E2%80%A2+Cybersecurity+Firewalls;200%2B+LeetCode+Problems+Optimized+%26+Solved)](https://github.com/Akshaya-csbs)
+  <br/><br/>
 
-<br/>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+Engineer+%E2%80%A2+Backend+Engineering;Java+%E2%80%A2+Python+%E2%80%A2+MySQL+%E2%80%A2+REST+APIs;Defensive+AI+%E2%80%A2+Cybersecurity+Firewalls;200%2B+LeetCode+Problems+Optimized+%26+Solved)](https://github.com/Akshaya-csbs)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaya--saravanan)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/akshh08/)
-[![Resume](https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=googledocs&logoColor=white)](https://ap.wps.com/cms/docs/d/cbCaeqfxyCRrPM0t?platform=pc&refer=copylink)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshaya-csbs)
+  <br/><br/>
+
+  <a href="mailto:akshaya.csbs@gmail.com">
+    <img src="assets/social_email.svg" alt="Email" height="38" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/akshaya--saravanan" target="_blank">
+    <img src="assets/social_linkedin.svg" alt="LinkedIn" height="38" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Akshaya-csbs" target="_blank">
+    <img src="assets/social_github.svg" alt="GitHub" height="38" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/akshh08/" target="_blank">
+    <img src="assets/social_leetcode.svg" alt="LeetCode" height="38" />
+  </a>
+  &nbsp;
+  <a href="https://ap.wps.com/cms/docs/d/cbCaeqfxyCRrPM0t?platform=pc&refer=copylink" target="_blank">
+    <img src="assets/social_resume.svg" alt="Resume" height="38" />
+  </a>
 
 </div>
 
@@ -47,14 +64,6 @@
 
 ---
 
-### 💼 Experience
-
-#### **Backend Development Intern** — *CodeAlpha* `(Jan 2026)`
-- Engineered backend services in Python and Flask to develop a **URL Shortener** and an **Event Management System**.
-- Implemented RESTful API endpoints for resource creation, parameter validation, and dynamic redirect logic.
-- Structured relational database models and schema relationships to handle secure user registrations and event bookings.
-
----
 
 ### 🚀 Featured Projects
 
@@ -120,28 +129,3 @@
   </a>
 </div>
 
----
-
-### 📬 Connect With Me
-
-<div align="center">
-  <a href="mailto:akshaya.csbs@gmail.com">
-    <img src="assets/social_email.svg" alt="Email" height="42" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/akshaya--saravanan" target="_blank">
-    <img src="assets/social_linkedin.svg" alt="LinkedIn" height="42" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Akshaya-csbs" target="_blank">
-    <img src="assets/social_github.svg" alt="GitHub" height="42" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/akshh08/" target="_blank">
-    <img src="assets/social_leetcode.svg" alt="LeetCode" height="42" />
-  </a>
-  &nbsp;
-  <a href="https://ap.wps.com/cms/docs/d/cbCaeqfxyCRrPM0t?platform=pc&refer=copylink" target="_blank">
-    <img src="assets/social_resume.svg" alt="Resume" height="42" />
-  </a>
-</div>
