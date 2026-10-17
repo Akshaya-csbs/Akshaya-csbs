@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/akshaya--saravanan" target="_blank"><img src="assets/social_linkedin.svg" alt="LinkedIn" width="19.3%" /></a>
   <a href="https://github.com/Akshaya-csbs" target="_blank"><img src="assets/social_github.svg" alt="GitHub" width="19.3%" /></a>
   <a href="https://leetcode.com/u/akshh08/" target="_blank"><img src="assets/social_leetcode.svg" alt="LeetCode" width="19.3%" /></a>
-  <a href="https://ap.wps.com/cms/docs/d/cbCaeqfxyCRrPM0t?platform=pc&refer=copylink" target="_blank"><img src="assets/social_resume.svg" alt="Resume" width="19.3%" /></a>
+  <a href="https://drive.google.com/file/d/1aL6lDby2hqeJjXpIZRZj19lyfHUNTPSx/view?usp=sharing" target="_blank"><img src="assets/social_resume.svg" alt="Resume" width="19.3%" /></a>
 
 </div>
 
@@ -96,8 +96,8 @@
 <div align="center">
   <a href="https://www.linkedin.com/posts/chennai-institute-of-technology_takshashila2026-aptathon2026-cit-ugcPost-7433433486000312320-3XG7?utm_source=share&utm_medium=member_android&rcm=ACoAAF6RAG4Bgyvsw4MaaeS8pZ_93zfiXjvxxg8" target="_blank"><img src="assets/achievement_1.svg" width="19.3%" alt="Winner - CIT Aptathon 2026" /></a>
   <a href="https://lnkd.in/p/gwxfPm48" target="_blank"><img src="assets/achievement_2.svg" width="19.3%" alt="Global Top 106 - Google Solution Challenge 2026" /></a>
-  <a href="https://ap.wps.com/cms/docs/d/cbCaeqfxyCRrPM0t?platform=pc&refer=copylink" target="_blank"><img src="assets/achievement_3.svg" width="19.3%" alt="Runner-Up - SheBuilds x CCCL Hackathon" /></a>
+  <a href="https://drive.google.com/file/d/1aL6lDby2hqeJjXpIZRZj19lyfHUNTPSx/view?usp=sharing" target="_blank"><img src="assets/achievement_3.svg" width="19.3%" alt="Runner-Up - SheBuilds x CCCL Hackathon" /></a>
   <a href="https://lnkd.in/p/gyHnmJwT" target="_blank"><img src="assets/achievement_4.svg" width="19.3%" alt="Top 14 Finalist - Hack Nocturne 2.0" /></a>
-  <a href="https://ap.wps.com/cms/docs/d/cbCaeqfxyCRrPM0t?platform=pc&refer=copylink" target="_blank"><img src="assets/achievement_5.svg" width="19.3%" alt="Track Top 2 Finalist - India Computer Vision Hackathon" /></a>
+  <a href="https://drive.google.com/file/d/1aL6lDby2hqeJjXpIZRZj19lyfHUNTPSx/view?usp=sharing" target="_blank"><img src="assets/achievement_5.svg" width="19.3%" alt="Track Top 2 Finalist - India Computer Vision Hackathon" /></a>
 </div>
 
