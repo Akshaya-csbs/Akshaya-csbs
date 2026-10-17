@@ -124,8 +124,24 @@
 
 ### 📬 Connect With Me
 
-- **Email:** [akshaya.csbs@gmail.com](mailto:akshaya.csbs@gmail.com)
-- **LinkedIn:** [linkedin.com/in/akshaya--saravanan](https://www.linkedin.com/in/akshaya--saravanan)
-- **GitHub:** [github.com/Akshaya-csbs](https://github.com/Akshaya-csbs)
-- **LeetCode:** [leetcode.com/u/akshh08](https://leetcode.com/u/akshh08/)
-- **Resume:** [View Technical Resume](https://ap.wps.com/cms/docs/d/cbCaeqfxyCRrPM0t?platform=pc&refer=copylink)
+<div align="center">
+  <a href="mailto:akshaya.csbs@gmail.com">
+    <img src="assets/social_email.svg" alt="Email" height="42" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/akshaya--saravanan" target="_blank">
+    <img src="assets/social_linkedin.svg" alt="LinkedIn" height="42" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Akshaya-csbs" target="_blank">
+    <img src="assets/social_github.svg" alt="GitHub" height="42" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/akshh08/" target="_blank">
+    <img src="assets/social_leetcode.svg" alt="LeetCode" height="42" />
+  </a>
+  &nbsp;
+  <a href="https://ap.wps.com/cms/docs/d/cbCaeqfxyCRrPM0t?platform=pc&refer=copylink" target="_blank">
+    <img src="assets/social_resume.svg" alt="Resume" height="42" />
+  </a>
+</div>
