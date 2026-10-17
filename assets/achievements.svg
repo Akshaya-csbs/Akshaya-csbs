@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 405" width="100%" height="100%">
+  <defs>
+    <!-- Dark Glassmorphic Card Background -->
+    <linearGradient id="card-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#090d16" stop-opacity="0.98"/>
+    </linearGradient>
+
+    <!-- Animated Shimmering Glowing Borders -->
+    <linearGradient id="glow-gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B">
+        <animate attributeName="stop-color" values="#F59E0B;#8B5CF6;#F59E0B" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#6366F1">
+        <animate attributeName="stop-color" values="#6366F1;#EC4899;#6366F1" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="glow-blue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B82F6">
+        <animate attributeName="stop-color" values="#3B82F6;#06B6D4;#3B82F6" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#06B6D4">
+        <animate attributeName="stop-color" values="#06B6D4;#3B82F6;#06B6D4" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="glow-purple" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6">
+        <animate attributeName="stop-color" values="#8B5CF6;#EC4899;#8B5CF6" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#EC4899">
+        <animate attributeName="stop-color" values="#EC4899;#8B5CF6;#EC4899" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="glow-indigo" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+
+    <linearGradient id="glow-emerald" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06B6D4"/>
+      <stop offset="100%" stop-color="#10B981"/>
+    </linearGradient>
+
+    <!-- Pill Gradients -->
+    <linearGradient id="pill-gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D97706" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#B45309" stop-opacity="0.15"/>
+    </linearGradient>
+    <linearGradient id="pill-blue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#1D4ED8" stop-opacity="0.15"/>
+    </linearGradient>
+    <linearGradient id="pill-purple" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#6D28D9" stop-opacity="0.15"/>
+    </linearGradient>
+    <linearGradient id="pill-indigo" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4F46E5" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#3730A3" stop-opacity="0.15"/>
+    </linearGradient>
+    <linearGradient id="pill-emerald" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#059669" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#047857" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    @keyframes pulseGlow {
+      0%, 100% { stroke-opacity: 0.7; }
+      50% { stroke-opacity: 1; }
+    }
+    .glow-card {
+      animation: pulseGlow 3s ease-in-out infinite;
+    }
+  </style>
+
+  <!-- ==================== CARD 1: CIT Aptathon 2026 (Winner) ==================== -->
+  <g transform="translate(10, 8)">
+    <rect width="410" height="120" rx="14" fill="url(#card-bg)" stroke="url(#glow-gold)" stroke-width="1.8" class="glow-card"/>
+    <!-- Icon Box -->
+    <rect x="16" y="16" width="40" height="40" rx="10" fill="#1e293b" stroke="#F59E0B" stroke-opacity="0.5" stroke-width="1"/>
+    <!-- Trophy Path -->
+    <path d="M28 26 h16 v6 c0 4.4 -3.6 8 -8 8 s-8 -3.6 -8 -8 Z M28 29 h-3 c-1.7 0 -3 1.3 -3 3 v1 c0 2.8 2.2 5 5 5 h1 M44 29 h3 c1.7 0 3 1.3 3 3 v1 c0 2.8 -2.2 5 -5 5 h-1 M36 40 v4 M31 44 h10" fill="none" stroke="#F59E0B" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Status Pill -->
+    <rect x="300" y="16" width="94" height="24" rx="12" fill="url(#pill-gold)" stroke="#F59E0B" stroke-opacity="0.5" stroke-width="1"/>
+    <text x="347" y="32.5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="700" font-size="10.5" letter-spacing="0.6" fill="#FBBF24" text-anchor="middle">1ST PLACE</text>
+
+    <!-- Content -->
+    <text x="68" y="32" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="700" font-size="15" fill="#FFFFFF">Winner</text>
+    <text x="68" y="49" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="600" font-size="13" fill="#E2E8F0">CIT Aptathon 2026</text>
+    <text x="18" y="82" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#94A3B8">1st place after clearing four competitive</text>
+    <text x="18" y="100" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#94A3B8">aptitude problem-solving rounds.</text>
+  </g>
+
+  <!-- ==================== CARD 2: Google Solution Challenge 2026 ==================== -->
+  <g transform="translate(430, 8)">
+    <rect width="410" height="120" rx="14" fill="url(#card-bg)" stroke="url(#glow-blue)" stroke-width="1.8" class="glow-card"/>
+    <rect x="16" y="16" width="40" height="40" rx="10" fill="#1e293b" stroke="#3B82F6" stroke-opacity="0.5" stroke-width="1"/>
+    <!-- Globe Path -->
+    <circle cx="36" cy="36" r="9" fill="none" stroke="#38BDF8" stroke-width="1.8"/>
+    <ellipse cx="36" cy="36" rx="4.5" ry="9" fill="none" stroke="#38BDF8" stroke-width="1.5"/>
+    <path d="M27 36 h18" stroke="#38BDF8" stroke-width="1.5"/>
+
+    <rect x="275" y="16" width="119" height="24" rx="12" fill="url(#pill-blue)" stroke="#38BDF8" stroke-opacity="0.5" stroke-width="1"/>
+    <text x="334.5" y="32.5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="700" font-size="10.5" letter-spacing="0.6" fill="#38BDF8" text-anchor="middle">GLOBAL TOP 106</text>
+
+    <text x="68" y="32" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="700" font-size="15" fill="#FFFFFF">Global Top 106 Teams</text>
+    <text x="68" y="49" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="600" font-size="13" fill="#E2E8F0">Google Solution Challenge 2026</text>
+    <text x="18" y="82" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#94A3B8">Selected among top 106 teams globally from</text>
+    <text x="18" y="100" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#94A3B8">85,000+ registered global participants.</text>
+  </g>
+
+  <!-- ==================== CARD 3: SheBuilds x CCCL Hackathon ==================== -->
+  <g transform="translate(10, 140)">
+    <rect width="410" height="120" rx="14" fill="url(#card-bg)" stroke="url(#glow-purple)" stroke-width="1.8" class="glow-card"/>
+    <rect x="16" y="16" width="40" height="40" rx="10" fill="#1e293b" stroke="#8B5CF6" stroke-opacity="0.5" stroke-width="1"/>
+    <!-- Medal Path -->
+    <circle cx="36" cy="39" r="6.5" fill="none" stroke="#A78BFA" stroke-width="1.8"/>
+    <path d="M31 26 l3 7 M41 26 l-3 7" stroke="#A78BFA" stroke-width="1.8" stroke-linecap="round"/>
+
+    <rect x="300" y="16" width="94" height="24" rx="12" fill="url(#pill-purple)" stroke="#A78BFA" stroke-opacity="0.5" stroke-width="1"/>
+    <text x="347" y="32.5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="700" font-size="10.5" letter-spacing="0.6" fill="#C4B5FD" text-anchor="middle">RUNNER-UP</text>
+
+    <text x="68" y="32" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="700" font-size="15" fill="#FFFFFF">Runner-Up</text>
+    <text x="68" y="49" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="600" font-size="13" fill="#E2E8F0">SheBuilds × CCCL Hackathon</text>
+    <text x="18" y="82" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#94A3B8">Secured runner-up position in the hackathon</text>
+    <text x="18" y="100" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#94A3B8">organized by the SheBuilds Foundation.</text>
+  </g>
+
+  <!-- ==================== CARD 4: Hack Nocturne 2.0 ==================== -->
+  <g transform="translate(430, 140)">
+    <rect width="410" height="120" rx="14" fill="url(#card-bg)" stroke="url(#glow-indigo)" stroke-width="1.4"/>
+    <rect x="16" y="16" width="40" height="40" rx="10" fill="#1e293b" stroke="#6366F1" stroke-opacity="0.3" stroke-width="1"/>
+    <!-- Target Path -->
+    <circle cx="36" cy="36" r="9" fill="none" stroke="#818CF8" stroke-width="1.8"/>
+    <circle cx="36" cy="36" r="4.5" fill="none" stroke="#818CF8" stroke-width="1.5"/>
+    <circle cx="36" cy="36" r="1.5" fill="#818CF8"/>
+
+    <rect x="275" y="16" width="119" height="24" rx="12" fill="url(#pill-indigo)" stroke="#818CF8" stroke-opacity="0.4" stroke-width="1"/>
+    <text x="334.5" y="32.5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="700" font-size="10.5" letter-spacing="0.6" fill="#A5B4FC" text-anchor="middle">TOP 14 FINALIST</text>
+
+    <text x="68" y="32" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="700" font-size="15" fill="#FFFFFF">Top 14 Finalist</text>
+    <text x="68" y="49" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="600" font-size="13" fill="#E2E8F0">Hack Nocturne 2.0</text>
+    <text x="18" y="82" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#94A3B8">Ranked 14th at the hackathon hosted by</text>
+    <text x="18" y="100" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#94A3B8">Sir M. Visvesvaraya Institute of Technology.</text>
+  </g>
+
+  <!-- ==================== CARD 5: India Computer Vision Hackathon ==================== -->
+  <g transform="translate(10, 272)">
+    <rect width="830" height="118" rx="14" fill="url(#card-bg)" stroke="url(#glow-emerald)" stroke-width="1.4"/>
+    <rect x="16" y="16" width="40" height="40" rx="10" fill="#1e293b" stroke="#10B981" stroke-opacity="0.3" stroke-width="1"/>
+    <!-- Eye / Vision Scan Path -->
+    <circle cx="36" cy="36" r="3.5" fill="none" stroke="#34D399" stroke-width="1.8"/>
+    <path d="M26 36 q10 -9 20 0 q-10 9 -20 0" fill="none" stroke="#34D399" stroke-width="1.8"/>
+
+    <rect x="695" y="16" width="119" height="24" rx="12" fill="url(#pill-emerald)" stroke="#34D399" stroke-opacity="0.4" stroke-width="1"/>
+    <text x="754.5" y="32.5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="700" font-size="10.5" letter-spacing="0.6" fill="#6EE7B7" text-anchor="middle">TRACK TOP 2</text>
+
+    <text x="68" y="32" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="700" font-size="15" fill="#FFFFFF">Track Top 2 Finalist</text>
+    <text x="68" y="49" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="600" font-size="13" fill="#E2E8F0">1st India Computer Vision Hackathon</text>
+    <text x="18" y="80" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#94A3B8">Reached the top two finalists in the competitive computer vision track hosted at</text>
+    <text x="18" y="98" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#94A3B8">RV College of Engineering, Bangalore.</text>
+  </g>
+</svg>

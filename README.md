@@ -96,34 +96,9 @@
 
 ### 🏆 Achievements & Milestones
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <b>🥇 Winner — CIT Aptathon 2026</b> &nbsp;<code>1st Place</code><br/>
-      <sub>1st place after clearing four aptitude problem-solving rounds.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>🌍 Global Top 106 — Google Solution Challenge 2026</b> &nbsp;<code>Top 106</code><br/>
-      <sub>Selected among the top 106 teams from a global pool of participants.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>🥈 Runner-Up — SheBuilds × CCCL Hackathon</b> &nbsp;<code>Runner-Up</code><br/>
-      <sub>Secured runner-up position in the hackathon organized by the SheBuilds Foundation.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>🎯 Top 14 Finalist — Hack Nocturne 2.0</b><br/>
-      <sub>Ranked 14th at the hackathon hosted by Sir M. Visvesvaraya Institute of Technology, Bangalore.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <b>🔍 Track Top 2 Finalist — India Computer Vision Hackathon</b><br/>
-      <sub>Reached the top two finalists in the track at RV College of Engineering, Bangalore.</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="assets/achievements.svg" alt="Achievements and Milestones" width="100%" />
+</div>
 
 ---
 
