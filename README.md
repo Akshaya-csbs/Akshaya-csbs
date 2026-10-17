@@ -55,17 +55,12 @@
 
 ### 🚀 Featured Projects
 
-<img src="assets/border_gradient.svg" width="100%" height="3" />
+<div align="center">
+  <a href="https://github.com/Akshaya-csbs?tab=repositories" target="_blank">
+    <img src="assets/featured_projects.svg" alt="Featured Projects" width="100%" />
+  </a>
+</div>
 
-| Project | Tech Stack |
-| :--- | :--- |
-| **[Kinship](https://github.com/Akshaya-csbs/Kinship)** ([Demo](https://kinship-production-9e78.up.railway.app/)) | Java 17, JDBC, MySQL, React, TypeScript, Tailwind CSS, Docker |
-| **[NexusResponse](https://github.com/Akshaya-csbs/Nexus-last)** | React 19, TypeScript, Google Gemini API, Vertex AI, Firebase Firestore |
-| **[Driftcatch](https://github.com/Akshaya-csbs/drift-final)** ([Demo](https://drift-catch.streamlit.app/)) | Python, Streamlit, Sentence Transformers, Scikit-learn, NLTK |
-| **[MedSafe](https://github.com/Akshaya-csbs/MedSafe)** | React 18, TypeScript, Vite, Tailwind CSS, Client-side Cryptography |
-| **[AptGuru](https://github.com/Akshaya-csbs/AptGuru)** ([Demo](https://aptguru.lovable.app/)) | React, TypeScript, Vite, Tailwind CSS, Supabase Edge Functions, LLM APIs |
-
-<img src="assets/border_gradient.svg" width="100%" height="3" />
 
 ---
 
