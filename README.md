@@ -48,42 +48,13 @@ I am an undergraduate student pursuing **B.Tech in Computer Science and Business
 
 ### 🚀 Featured Projects
 
-#### 1. [Kinship — Visual Portfolio Network for Skilled Professionals](https://github.com/Akshaya-csbs/Kinship)
-> Full-stack collaborative networking platform allowing creators and skilled professionals to verify talents, showcase portfolios, and connect with prospective employers.
-- **Tech Stack:** Java 17, JDBC, MySQL 8, Maven, React 18, TypeScript, Tailwind CSS, Docker
-- **Backend Architecture:** Custom Java REST server utilizing object-oriented patterns (Factory, Repository, and checked exception hierarchies) mapped to standard JSON HTTP responses.
-- **Concurrency & Multithreading:** Implemented `ThreadPoolExecutor` for concurrent API handling, background `ScheduledExecutorService`, and `BlockingQueue` for asynchronous notification dispatch.
-- **REST APIs:** Full suite of authenticated endpoints for sessions, portfolio feed, talent matching algorithms, threaded direct messaging, and milestone tracking.
-- **Links:** [GitHub Repository](https://github.com/Akshaya-csbs/Kinship) • [Live Demo on Railway](https://kinship-production-9e78.up.railway.app/)
-
-#### 2. [NexusResponse — Crisis Coordination & Resource Management System](https://github.com/Akshaya-csbs/Nexus-last)
-> Emergency resource intelligence platform built for the **Build with AI — Google Solution Challenge 2026** (Selected for Global Top 106).
-- **Tech Stack:** React 19, TypeScript, Tailwind CSS, Google Gemini API, Vertex AI, Firebase Firestore & Authentication
-- **Real-Time State Sync:** Dual-interface system comprising an incident command operations dashboard ("Sentinel") and civilian portal ("SafeStay") with real-time hazard status synchronization.
-- **AI-Powered Evacuation:** Integrates Google Gemini API to analyze contextual floor-level hazard telemetry and compute safe dynamic turn-by-turn evacuation instructions.
-- **Resource Management:** Real-time tracking of floor-wise supply inventories and automated emergency responder deployment.
-- **Links:** [GitHub Repository](https://github.com/Akshaya-csbs/Nexus-last)
-
-#### 3. [Driftcatch — Proactive Dynamic Intent Firewall](https://github.com/Akshaya-csbs/drift-final)
-> Defensive AI security engine engineered to intercept prompt injection attacks, jailbreaks, and adversarial manipulation before reaching LLM inference endpoints.
-- **Tech Stack:** Python, Streamlit, Sentence Transformers, Scikit-learn, NLTK VADER, TextBlob
-- **Adversarial Detection:** Combines dense semantic vector embeddings with benchmarked machine learning models (Linear SVM, Random Forest, Logistic Regression) to detect anomalous prompt drift.
-- **Escalation Engine:** Computes real-time intent classification and sentiment volatility scores to dynamically flag or isolate suspicious query payloads.
-- **Links:** [GitHub Repository](https://github.com/Akshaya-csbs/drift-final) • [Live Streamlit App](https://drift-catch.streamlit.app/)
-
-#### 4. [MedSafe — Patient-Owned Prescription Intelligence Platform](https://github.com/Akshaya-csbs/MedSafe)
-> Healthcare application merging zero-knowledge data privacy with automated pharmacological conflict prevention.
-- **Tech Stack:** React 18, TypeScript, Vite, Tailwind CSS, Client-side Cryptography (Simulated RSA/AES)
-- **Patient Data Sovereignty:** Client-side encrypted health vault where patients hold private cryptographic keys and grant explicit, revocable read permissions to clinicians.
-- **CascadeFlow AI Routing:** Intelligent routing engine that dispatches low-risk medication checks to a low-latency rules engine while escalating complex polypharmacy queries to deep clinical reasoning pipelines.
-- **Links:** [GitHub Repository](https://github.com/Akshaya-csbs/MedSafe)
-
-#### 5. [AptGuru — AI-Powered Aptitude Learning Chatbot](https://github.com/Akshaya-csbs/AptGuru)
-> Conversational educational assistant helping students master quantitative, logical, verbal, and data interpretation aptitude through step-by-step logic unraveling.
-- **Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Supabase Edge Functions (Deno), LLM APIs
-- **Edge AI Architecture:** Serverless edge functions running on Supabase with specialized system prompts delivering structured step-by-step reasoning, formula shortcuts, and instant feedback.
-- **Interactive Interface:** Daily problem sets, timed quiz evaluations, and progressive hint mechanisms across 60+ placement topics.
-- **Links:** [GitHub Repository](https://github.com/Akshaya-csbs/AptGuru) • [Live App on Lovable](https://aptguru.lovable.app/)
+| Project | Tech Stack |
+| :--- | :--- |
+| **[Kinship](https://github.com/Akshaya-csbs/Kinship)** ([Demo](https://kinship-production-9e78.up.railway.app/)) | Java 17, JDBC, MySQL, React, TypeScript, Tailwind CSS, Docker |
+| **[NexusResponse](https://github.com/Akshaya-csbs/Nexus-last)** | React 19, TypeScript, Google Gemini API, Vertex AI, Firebase Firestore |
+| **[Driftcatch](https://github.com/Akshaya-csbs/drift-final)** ([Demo](https://drift-catch.streamlit.app/)) | Python, Streamlit, Sentence Transformers, Scikit-learn, NLTK |
+| **[MedSafe](https://github.com/Akshaya-csbs/MedSafe)** | React 18, TypeScript, Vite, Tailwind CSS, Client-side Cryptography |
+| **[AptGuru](https://github.com/Akshaya-csbs/AptGuru)** ([Demo](https://aptguru.lovable.app/)) | React, TypeScript, Vite, Tailwind CSS, Supabase Edge Functions, LLM APIs |
 
 ---
 
