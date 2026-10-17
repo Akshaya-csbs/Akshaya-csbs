@@ -94,16 +94,36 @@
 
 ---
 
-### 🏆 Achievements & Competitive Milestones
+### 🏆 Achievements & Milestones
 
-- 🥇 **Winner (1st Place)** — **CIT Aptathon 2026**; successfully cleared 4 rigorous aptitude problem-solving rounds.
-- 🌍 **Global Top 106 Teams** — **Google Solution Challenge 2026** (Build with AI); selected from over 85,000+ global participants and thousands of submitted entries.
-- 🎯 **Top 14 Finalist** — **Hack Nocturne 2.0 Finals**; national-level hackathon organized by Sir M. Visvesvaraya Institute of Technology, Bangalore.
-- 🥈 **Runner-Up** — **SheBuilds x CCCL Hackathon**; organized by the SheBuilds Foundation.
-- 🔍 **Track Top 2 Finalist** — **1st India Computer Vision Hackathon**; RV College of Engineering, Bangalore.
-- 💻 **Competitive Programming**:
-  - **LeetCode:** [akshh08](https://leetcode.com/u/akshh08/) — Actively solving problems in Data Structures & Algorithms, focusing on Arrays, Strings, Math, and Number Theory (over 218+ total solutions across handles).
-  - **SkillRack:** 380+ problems solved in C++ and Python fundamentals.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b>🥇 Winner — CIT Aptathon 2026</b> &nbsp;<code>1st Place</code><br/>
+      <sub>1st place after clearing four aptitude problem-solving rounds.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>🌍 Global Top 106 — Google Solution Challenge 2026</b> &nbsp;<code>Top 106</code><br/>
+      <sub>Selected among the top 106 teams from a global pool of participants.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🥈 Runner-Up — SheBuilds × CCCL Hackathon</b> &nbsp;<code>Runner-Up</code><br/>
+      <sub>Secured runner-up position in the hackathon organized by the SheBuilds Foundation.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>🎯 Top 14 Finalist — Hack Nocturne 2.0</b><br/>
+      <sub>Ranked 14th at the hackathon hosted by Sir M. Visvesvaraya Institute of Technology, Bangalore.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <b>🔍 Track Top 2 Finalist — India Computer Vision Hackathon</b><br/>
+      <sub>Reached the top two finalists in the track at RV College of Engineering, Bangalore.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
