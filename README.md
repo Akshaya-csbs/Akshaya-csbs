@@ -78,15 +78,16 @@
       </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshaya-csbs&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=79C0FF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" width="80%" />
+      <td align="center" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshaya-csbs&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=58A6FF&amp;fire=58A6FF&amp;currStreakNum=79C0FF&amp;sideNums=C9D1D9&amp;sideLabels=8B949E&amp;dates=8B949E" alt="GitHub Streak" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <a href="https://leetcode.com/u/akshh08/" target="_blank">
+          <img src="https://leetcard.jacoblin.cool/akshh08?theme=dark&amp;font=Inter" alt="LeetCode Stats" width="100%" />
+        </a>
       </td>
     </tr>
   </table>
-
-  <br/>
-
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/akshh08?theme=dark&font=Inter)](https://leetcode.com/u/akshh08/)
 </div>
 
 ---
