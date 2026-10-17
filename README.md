@@ -1,31 +1,17 @@
 <div align="center">
 
   <img src="assets/header_banner.png" alt="Akshaya S" width="100%" />
-  
-  <br/><br/>
+
+  <br/>
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+Engineer+%E2%80%A2+Backend+Engineering;Java+%E2%80%A2+Python+%E2%80%A2+MySQL+%E2%80%A2+REST+APIs;Defensive+AI+%E2%80%A2+Cybersecurity+Firewalls;200%2B+LeetCode+Problems+Optimized+%26+Solved)](https://github.com/Akshaya-csbs)
 
-  <br/><br/>
+  <br/>
 
-  <a href="mailto:akshaya.csbs@gmail.com">
-    <img src="assets/social_email.svg" alt="Email" height="38" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/akshaya--saravanan" target="_blank">
-    <img src="assets/social_linkedin.svg" alt="LinkedIn" height="38" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Akshaya-csbs" target="_blank">
-    <img src="assets/social_github.svg" alt="GitHub" height="38" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/akshh08/" target="_blank">
-    <img src="assets/social_leetcode.svg" alt="LeetCode" height="38" />
-  </a>
-  &nbsp;
-  <a href="https://ap.wps.com/cms/docs/d/cbCaeqfxyCRrPM0t?platform=pc&refer=copylink" target="_blank">
-    <img src="assets/social_resume.svg" alt="Resume" height="38" />
-  </a>
+  <a href="mailto:akshaya.csbs@gmail.com"><img src="assets/social_email.svg" alt="Email" width="19.3%" /></a>
+  <a href="https://www.linkedin.com/in/akshaya--saravanan" target="_blank"><img src="assets/social_linkedin.svg" alt="LinkedIn" width="19.3%" /></a>
+  <a href="https://github.com/Akshaya-csbs" target="_blank"><img src="assets/social_github.svg" alt="GitHub" width="19.3%" /></a>
+  <a href="https://leetcode.com/u/akshh08/" target="_blank"><img src="assets/social_leetcode.svg" alt="LeetCode" width="19.3%" /></a>
+  <a href="https://ap.wps.com/cms/docs/d/cbCaeqfxyCRrPM0t?platform=pc&refer=copylink" target="_blank"><img src="assets/social_resume.svg" alt="Resume" width="19.3%" /></a>
 
 </div>
 
