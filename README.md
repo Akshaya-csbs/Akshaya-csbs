@@ -24,7 +24,7 @@
 
 <p align="center">
   <samp>
-    Winner 🏅 — CIT’25 Aptathon &nbsp;|&nbsp; 9x Hackathon Finalist &nbsp;|&nbsp; Event Coordinator @ Celestius &nbsp;|&nbsp; BTech CSBS @ CIT &nbsp;|&nbsp; Aspiring SDE building secure and scalable systems
+    Winner🏅 - CIT’25 Aptathon &nbsp;|&nbsp; 9x Hackathon Finalist &nbsp;|&nbsp; Event Coordinator @ Celestius &nbsp;|&nbsp; PR lead @ IEEE WIE Chennai chapter &nbsp;|&nbsp; BTech CSBS @ CIT
   </samp>
 </p>
 
