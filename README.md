@@ -24,18 +24,13 @@
 
 <p align="center">
   <samp>
-    🎓 <b>B.Tech in CSBS @ Chennai Institute of Technology</b> &nbsp;|&nbsp; <b>CGPA: 9.24</b><br/>
-    Building high-concurrency backend services, defensive AI firewalls, and optimized algorithms.
+    Winner 🏅 — CIT’25 Aptathon &nbsp;|&nbsp; 9x Hackathon Finalist &nbsp;|&nbsp; Event Coordinator @ Celestius &nbsp;|&nbsp; BTech CSBS @ CIT &nbsp;|&nbsp; Aspiring SDE building secure and scalable systems
   </samp>
 </p>
 
-<div align="center">
+I am an **Aspiring SDE** pursuing my **B.Tech in CSBS @ CIT** (Chennai Institute of Technology, CGPA: 9.24), dedicated to **building secure and scalable systems**. My technical foundation spans architecting multithreaded REST APIs in **Java, Python, and Node.js**, alongside defensive AI firewalls and Zero-Knowledge data privacy architectures. An active competitive problem solver with **200+ solutions on LeetCode & SkillRack**, I have competed as a **9x Hackathon Finalist** and the **Winner 🏅 of CIT’25 Aptathon**.
 
-| ⚙️ `Backend Engineering` | 🛡️ `AI & Security` | 🧠 `Problem Solving` | 🌟 `Leadership` |
-| :--- | :--- | :--- | :--- |
-| Multithreaded REST APIs in Java, Python & Node.js | Intent escalation firewalls & Zero-Knowledge data privacy | 200+ LeetCode & SkillRack solutions | Event Lead @ Celestius • PR Lead @ IEEE WIE |
-
-</div>
+On the leadership front, I serve as the **Event Coordinator @ Celestius** and **PR Lead @ IEEE WIE**, driving technical initiatives, organizing flagship symposiums, and fostering student collaboration across engineering domains.
 
 ---
 
