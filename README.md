@@ -28,9 +28,9 @@
   </samp>
 </p>
 
-I am an **Aspiring SDE** pursuing my **B.Tech in CSBS @ CIT** (Chennai Institute of Technology, CGPA: 9.24), dedicated to **building secure and scalable systems**. My technical foundation spans architecting multithreaded REST APIs in **Java, Python, and Node.js**, alongside defensive AI firewalls and Zero-Knowledge data privacy architectures. An active competitive problem solver with **200+ solutions on LeetCode & SkillRack**, I have competed as a **9x Hackathon Finalist** and the **Winner 🏅 of CIT’25 Aptathon**.
+I’m Akshaya!! a Future-Ready SDE pursuing my **B.Tech in CSBS @ CIT** , dedicated to **building secure and scalable systems**. I'm passionate about innovation and problem-solving, currently strengthening programming fundamentals and core DSA through consistent LeetCode practice. Focused on continuous learning, communication, and building impactful, scalable, secure technology solutions., I have competed as a **9x Hackathon Finalist** and the **Winner 🏅 of CIT’25 Aptathon**.
 
-On the leadership front, I serve as the **Event Coordinator @ Celestius** and **PR Lead @ IEEE WIE**, driving technical initiatives, organizing flagship symposiums, and fostering student collaboration across engineering domains.
+On the leadership front, I serve as the **Event Coordinator @ Celestius** and **PR Lead @ IEEE WIE Chennai chapter**, driving technical initiatives, organizing flagship symposiums, and fostering student collaboration across engineering domains.
 
 ---
 
