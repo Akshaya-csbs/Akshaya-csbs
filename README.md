@@ -20,19 +20,11 @@
 
 ---
 
-### 👨‍💻 About Me
-
 <p align="center">
   <samp>
     Winner🏅 - CIT’25 Aptathon &nbsp;|&nbsp; 9x Hackathon Finalist &nbsp;|&nbsp; Event Coordinator @ Celestius &nbsp;|&nbsp; PR lead @ IEEE WIE Chennai chapter &nbsp;|&nbsp; BTech CSBS @ CIT
   </samp>
 </p>
-
-I’m Akshaya!! a Future-Ready SDE pursuing my **B.Tech in CSBS @ CIT** , dedicated to **building secure and scalable systems**. I'm passionate about innovation and problem-solving, currently strengthening programming fundamentals and core DSA through consistent LeetCode practice. Focused on continuous learning, communication, and building impactful, scalable, secure technology solutions., I have competed as a **9x Hackathon Finalist** and the **Winner 🏅 of CIT’25 Aptathon**.
-
-On the leadership front, I serve as the **Event Coordinator @ Celestius** and **PR Lead @ IEEE WIE Chennai chapter**, driving technical initiatives, organizing flagship symposiums, and fostering student collaboration across engineering domains.
-
----
 
 ### 🛠️ Technical Skills
 
@@ -48,7 +40,7 @@ On the leadership front, I serve as the **Event Coordinator @ Celestius** and **
 ---
 
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <div align="center">
   <a href="https://github.com/Akshaya-csbs?tab=repositories" target="_blank">
@@ -59,7 +51,7 @@ On the leadership front, I serve as the **Event Coordinator @ Celestius** and **
 
 ---
 
-### 📊 GitHub & Problem Solving Statistics
+### GitHub & Problem Solving Statistics
 
 <div align="center">
   <table border="0">
@@ -86,7 +78,7 @@ On the leadership front, I serve as the **Event Coordinator @ Celestius** and **
 
 ---
 
-### 🏆 Achievements & Milestones
+### Achievements & Milestones
 
 <div align="center">
   <a href="https://www.linkedin.com/posts/chennai-institute-of-technology_takshashila2026-aptathon2026-cit-ugcPost-7433433486000312320-3XG7?utm_source=share&utm_medium=member_android&rcm=ACoAAF6RAG4Bgyvsw4MaaeS8pZ_93zfiXjvxxg8" target="_blank"><img src="assets/achievement_1.svg" width="19.3%" alt="Winner - CIT Aptathon 2026" /></a>
